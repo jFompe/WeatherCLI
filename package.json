@@ -1,0 +1,27 @@
+{
+  "name": "WeatherCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jFompe/WeatherCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jFompe/WeatherCLI/issues"
+  },
+  "homepage": "https://github.com/jFompe/WeatherCLI#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
